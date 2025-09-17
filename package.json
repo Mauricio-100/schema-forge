@@ -1,11 +1,11 @@
 {
   "name": "@mauriciotukss2/schema-forge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "La forge de données : un validateur, transformateur et nettoyeur de schémas pour Node.js.",
   "main": "index.js",
   "type": "module",
   "author": "mauriciotukss2",
-  "license": "ISC",
+  "license": "GPL-3.0-or-later",
   "repository": {
     "type": "git",
     "url": "https://github.com/Mauricio-100/schema-forge.git"
@@ -15,8 +15,7 @@
   },
   "files": [
     "index.js",
-    "LICENSE",
-    "README.md"
+    "LICENSE"
   ],
   "engines": {
     "node": ">=18.0.0"
